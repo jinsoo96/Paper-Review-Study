@@ -5,7 +5,7 @@
 |------|---|---|---|
 |[:book:](https://github.com/GDSC-Ewha-4th/Study-paperReview/files/9662201/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf)|송여진|:white_check_mark:|
 |[📷](https://dl.acm.org/doi/pdf/10.1145/3065386)|김지수|:white_check_mark:|
-||유승연||
+|[:book:](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
 ||하수민||
