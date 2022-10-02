@@ -4,7 +4,7 @@
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
 |[:book:](https://github.com/GDSC-Ewha-4th/Study-paperReview/files/9662201/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf)|송여진|:white_check_mark:|
-||김지수||
+|[📷](https://dl.acm.org/doi/pdf/10.1145/3065386)|김지수|:white_check_mark:|
 ||유승연||
 ||차소연||
 ||신유정||
