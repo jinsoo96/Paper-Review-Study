@@ -8,7 +8,7 @@
 |[:book:](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)|유승연|:white_check_mark:|
 |[:book:](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)|차소연|:white_check_mark:|
 ||신유정||
-||하수민||
+|[:book:](https://vita.had.co.nz/papers/tidy-data.pdf)|하수민|:white_check_mark:|
 ||최지원||
 ||남지민||
 
