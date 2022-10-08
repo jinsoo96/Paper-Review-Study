@@ -18,7 +18,7 @@
 
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
-|[:book:](https://www.biorxiv.org/content/10.1101/2021.04.30.442096v1.full.pdf)|송여진||
+|[:book:](https://www.biorxiv.org/content/10.1101/2021.04.30.442096v1.full.pdf)|송여진|:white_check_mark:|
 ||김지수||
 ||유승연||
 ||차소연||
