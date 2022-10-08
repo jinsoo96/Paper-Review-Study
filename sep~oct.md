@@ -19,7 +19,7 @@
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
 ||송여진||
-||김지수||
+|[:book:](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)|김지수|:white_check_mark:|
 ||유승연||
 ||차소연||
 ||신유정||
