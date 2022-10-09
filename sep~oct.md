@@ -20,7 +20,7 @@
 |------|---|---|---|
 |[:book:](https://www.biorxiv.org/content/10.1101/2021.04.30.442096v1.full.pdf)|송여진|:white_check_mark:|
 |[:book:](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)|김지수|:white_check_mark:|
-||유승연||
+|[:book:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995316&tag=1)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
 |[:book:]([https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf](https://arxiv.org/pdf/1406.2661v1.pdf))|하수민|:white_check_mark:|
