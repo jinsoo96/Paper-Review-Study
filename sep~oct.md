@@ -23,6 +23,6 @@
 ||유승연||
 ||차소연||
 ||신유정||
-|[:book:](https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf)|하수민||
+|[:book:]([https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf](https://arxiv.org/pdf/1406.2661v1.pdf))|하수민|:white_check_mark:|
 ||최지원||
 ||남지민||
