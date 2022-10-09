@@ -25,7 +25,7 @@
 ||신유정||
 |[:book:]([https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf](https://arxiv.org/pdf/1406.2661v1.pdf))|하수민|:white_check_mark:|
 ||최지원||
-||남지민||
+|[:book:](https://www.biorxiv.org/content/10.1101/2021.04.30.442096v1.full.pdf)|남지민|:white_check_mark:|
 
 > 3주차 2022.10.10 ~ 2022.10.17 
 > 휴식
