@@ -14,11 +14,13 @@
 
 
 > 2주차 2022.10.03 ~ 2022.10.10  
-> 제출일: 10.03일에서 10.10일로 넘어가는 자정까지 
+> 제출일: 10.09일에서 10.10일로 넘어가는 자정까지 
 
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
 ||송여진||
+|[:book:](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)|김지수|:white_check_mark:|
+|[:book:](https://www.biorxiv.org/content/10.1101/2021.04.30.442096v1.full.pdf)|송여진|:white_check_mark:|
 ||김지수||
 ||유승연||
 ||차소연||
@@ -26,3 +28,10 @@
 |[:book:]([https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf](https://arxiv.org/pdf/1406.2661v1.pdf))|하수민|:white_check_mark:|
 ||최지원||
 ||남지민||
+
+> 3주차 2022.10.10 ~ 2022.10.17 
+> 휴식
+
+
+> 4주차 2022.10.17 ~ 2022.10.24
+> 휴식
