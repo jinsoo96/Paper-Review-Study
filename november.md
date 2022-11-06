@@ -5,7 +5,7 @@
 |------|---|---|---|
 |[:book:](https://arxiv.org/pdf/1502.03167.pdf)|송여진|:white_check_mark:|
 ||김지수||
-||유승연||
+|[:book:](https://ieeexplore.ieee.org/document/8474620)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
 ||하수민||
