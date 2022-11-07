@@ -5,10 +5,11 @@
 |------|---|---|---|
 |[:book:](https://arxiv.org/pdf/1502.03167.pdf)|송여진|:white_check_mark:|
 ||김지수||
-||유승연||
+|[:book:](https://ieeexplore.ieee.org/document/8474620)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정|휴식|
 ||하수민||
+|[:book:](https://arxiv.org/pdf/1505.04597.pdf)|하수민|:white_check_mark:|
 ||최지원||
 ||남지민||
 ||이지혜||
