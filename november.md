@@ -4,7 +4,7 @@
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
 |[:book:](https://arxiv.org/pdf/1502.03167.pdf)|송여진|:white_check_mark:|
-||김지수||
+|[:book:](https://arxiv.org/pdf/1412.6980.pdf)|김지수|:white_check_mark:|
 |[:book:](https://ieeexplore.ieee.org/document/8474620)|유승연|:white_check_mark:|
 ||차소연|휴식|
 ||신유정|휴식|
