@@ -9,7 +9,7 @@
 ||차소연|휴식|
 ||신유정|휴식|
 |[:book:](https://arxiv.org/pdf/1505.04597.pdf)|하수민|:white_check_mark:|
-||최지원||
+|[:book:](https://arxiv.org/pdf/1502.03167.pdf)|최지원|:white_check_mark:|
 ||남지민|휴식|
 ||이지혜||
 
@@ -25,7 +25,7 @@
 ||차소연||
 ||신유정|휴식|
 ||하수민|휴식|
-||최지원||
+||최지원|휴식|
 ||남지민|:white_check_mark:|
 ||이지혜||
 
