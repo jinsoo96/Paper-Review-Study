@@ -9,7 +9,7 @@
 ||차소연|휴식|
 ||신유정|휴식|
 |[:book:](https://arxiv.org/pdf/1505.04597.pdf)|하수민|:white_check_mark:|
-|[:book:](https://arxiv.org/pdf/1502.03167.pdf)|최지원|:white_check_mark:|
+|[:book:](https://www-riss-kr-ssl.access.ewha.ac.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=df634c7a89f6d1d3b36097776a77e665&keyword=varx)|최지원|:white_check_mark:|
 ||남지민|휴식|
 ||이지혜||
 
