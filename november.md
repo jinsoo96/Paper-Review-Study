@@ -39,7 +39,7 @@
 |[:book:](https://ieeexplore.ieee.org/document/7298935)|유승연|:white_check_mark:|
 |[:book:](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|차소연|:white_check_mark:|
 ||신유정||
-||하수민|[:book:](https://arxiv.org/pdf/1906.08172.pdf)|
+|[:book:](https://arxiv.org/pdf/1906.08172.pdf)|하수민|:white_check_mark:|
 ||최지원|휴식|
 ||남지민||
 ||이지혜||
