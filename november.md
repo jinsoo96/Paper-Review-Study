@@ -20,7 +20,7 @@
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
 ||송여진|휴식|
-||김지수||
+|[:book:](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)|김지수|:white_check_mark:|
 ||유승연|휴식|
 ||차소연|휴식|
 ||신유정|휴식|
@@ -35,7 +35,7 @@
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
 ||송여진||
-||김지수||
+||김지수|휴식|
 ||유승연||
 ||차소연||
 ||신유정||
