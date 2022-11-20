@@ -36,7 +36,7 @@
 |------|---|---|---|
 ||송여진||
 ||김지수|휴식|
-||유승연||
+|[:book:](https://ieeexplore.ieee.org/document/7298935)|유승연|:white_check_mark:|
 |[:book:](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|차소연|:white_check_mark:|
 ||신유정||
 ||하수민||
