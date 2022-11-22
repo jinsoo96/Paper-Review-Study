@@ -34,7 +34,7 @@
 
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
-||송여진||
+|[:book:](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7329239/pdf/nihms-1600717.pdf)|송여진|:white_check_mark:|
 ||김지수|휴식|
 |[:book:](https://ieeexplore.ieee.org/document/7298935)|유승연|:white_check_mark:|
 |[:book:](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|차소연|:white_check_mark:|
