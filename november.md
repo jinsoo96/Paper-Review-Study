@@ -50,7 +50,7 @@
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
 ||송여진||
-||김지수||
+|[:book:](https://proceedings.neurips.cc/paper/2013/file/f7cade80b7cc92b991cf4d2806d6bd78-Paper.pdf)|김지수|:white_check_mark:|
 ||유승연||
 ||차소연||
 ||신유정||
