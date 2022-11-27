@@ -51,7 +51,7 @@
 |------|---|---|---|
 ||송여진||
 |[:book:](https://proceedings.neurips.cc/paper/2013/file/f7cade80b7cc92b991cf4d2806d6bd78-Paper.pdf)|김지수|:white_check_mark:|
-||유승연||
+|[:book:](https://ieeexplore.ieee.org/document/8099499/keywords#full-text-header)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
 ||하수민||
