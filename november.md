@@ -49,7 +49,7 @@
 
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
-||송여진||
+|[:book:](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)|송여진|:white_check_mark:|
 |[:book:](https://proceedings.neurips.cc/paper/2013/file/f7cade80b7cc92b991cf4d2806d6bd78-Paper.pdf)|김지수|:white_check_mark:|
 |[:book:](https://ieeexplore.ieee.org/document/8099499/keywords#full-text-header)|유승연|:white_check_mark:|
 |[:book:](https://arxiv.org/pdf/1409.1556.pdf)|차소연|:white_check_mark:|
