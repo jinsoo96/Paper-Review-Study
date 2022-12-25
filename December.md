@@ -25,7 +25,7 @@
 |------|---|---|---|
 ||송여진||
 ||김지수||
-||유승연||
+|[:book:](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.pdf)|유승연|✅|
 ||차소연||
 ||신유정||
 ||하수민||
