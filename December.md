@@ -40,7 +40,7 @@
 |------|---|---|---|
 ||송여진||
 |[:book:](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)|김지수|:white_check_mark:|
-||유승연||
+|[:book:](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
 ||하수민||
