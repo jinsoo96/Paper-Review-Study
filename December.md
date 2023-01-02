@@ -46,4 +46,4 @@
 ||하수민||
 ||최지원||
 ||남지민||
-||이지혜||
+|[:book:](https://arxiv.org/abs/2210.06944)|이지혜|:white_check_mark:|
