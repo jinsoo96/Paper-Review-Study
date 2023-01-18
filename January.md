@@ -20,7 +20,7 @@
 |------|---|---|---|
 ||송여진||
 ||김지수||
-||유승연||
+|[:book:](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Image_Synthesis_From_Reconfigurable_Layout_and_Style_ICCV_2019_paper.pdf)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
 |[:book:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7386874)|하수민|:white_check_mark:|
