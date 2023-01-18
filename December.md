@@ -28,7 +28,7 @@
 |[:book:](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.pdf)|유승연|✅|
 ||차소연||
 ||신유정||
-||하수민||
+|[:book:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9482067)|하수민|:white_check_mark:|
 ||최지원||
 ||남지민||
 ||이지혜||
