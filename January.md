@@ -8,7 +8,7 @@
 ||유승연|휴식|
 ||차소연||
 ||신유정||
-||하수민||
+||하수민|휴식|
 ||최지원||
 ||남지민||
 ||이지혜|:white_check_mark:|
@@ -23,7 +23,7 @@
 |[:book:](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Image_Synthesis_From_Reconfigurable_Layout_and_Style_ICCV_2019_paper.pdf)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
-||하수민||
+|[:book:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7386874)|하수민|:white_check_mark:|
 ||최지원||
 ||남지민||
 ||이지혜||
@@ -38,7 +38,7 @@
 ||유승연||
 ||차소연||
 ||신유정||
-||하수민||
+|[:book:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8663146)|하수민|:white_check_mark:|
 ||최지원||
 ||남지민||
 ||이지혜||
