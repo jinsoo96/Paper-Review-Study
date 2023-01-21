@@ -18,7 +18,7 @@
 
 논문|이름|제출여부|추가자료  
 |------|---|---|---|
-||송여진||
+|[:book:](https://arxiv.org/abs/1905.11946)|송여진|:white_check_mark:|
 ||김지수||
 |[:book:](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Image_Synthesis_From_Reconfigurable_Layout_and_Style_ICCV_2019_paper.pdf)|유승연|:white_check_mark:|
 ||차소연||
