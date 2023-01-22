@@ -35,7 +35,7 @@
 |------|---|---|---|
 ||송여진|휴식|
 ||김지수||
-||유승연||
+|[:book:](https://openaccess.thecvf.com/content_cvpr_2018/papers/Johnson_Image_Generation_From_CVPR_2018_paper.pdf)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
 |[:book:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8663146)|하수민|:white_check_mark:|
