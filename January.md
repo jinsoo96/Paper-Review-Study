@@ -50,7 +50,7 @@
 |------|---|---|---|
 ||송여진||
 ||김지수||
-||유승연||
+|[:book:](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Scene_Graph_Generation_CVPR_2017_paper.pdf)|유승연|:white_check_mark:|
 ||차소연||
 ||신유정||
 |[:book:](https://www.mdpi.com/2073-8994/14/12/2657)|하수민|:white_check_mark:|
