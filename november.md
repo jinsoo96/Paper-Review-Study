@@ -54,7 +54,7 @@
 |[:book:](https://ieeexplore.ieee.org/document/8099499/keywords#full-text-header)|유승연|:white_check_mark:|
 |[:book:](https://arxiv.org/pdf/1409.1556.pdf)|차소연|:white_check_mark:|
 ||신유정||
-||하수민||
+|[:book:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9478090)|하수민|:white_check_mark:|
 ||최지원||
 ||남지민||
 ||이지혜||
