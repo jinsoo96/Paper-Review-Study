@@ -1,5 +1,8 @@
+https://github.com/wrryu09/Study-paperReview 참고 페이퍼 리뷰 사이트 
+
+
 # Study-paperReview
-GDSC Ewha 4기 인공지능 논문 리뷰 스터디입니다.
+경희대학교 Smart Lab 인공지능 논문 리뷰 스터디입니다.
 
 ### 스터디 소개
 `인공지능(AI)`  `딥러닝(DL)`  `머신러닝(ML)` 분야에 관심이 있으신 분들! 같이 논문 읽어요 :smile:  
